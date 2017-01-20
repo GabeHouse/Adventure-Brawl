@@ -1,4 +1,4 @@
 # StreetAdventure
 Street Fighter meets Adventure Time
 
-JAR to play the game can be found in StreetAdventure.zip, keep JAR in the folder with its resources
+How to play: download and extract StreetAdventure.zip, run the .jar file while it's in the same directory as the resources.
